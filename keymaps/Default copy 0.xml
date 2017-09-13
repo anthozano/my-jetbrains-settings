@@ -1,10 +1,29 @@
 <keymap version="1" name="Default copy 0" parent="$default">
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="shift alt button1" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="PreviousOccurence" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift alt 2" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -22,5 +41,8 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
   <action id="Vcs.Push" />
 </keymap>
