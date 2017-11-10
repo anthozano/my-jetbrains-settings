@@ -32,9 +32,6 @@
     <option name="WHITESPACES" value="" />
   </colors>
   <attributes>
-    <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
-      <value />
-    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="7ae27f" />
@@ -338,9 +335,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
-      <value />
-    </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e5db74" />
@@ -572,18 +566,6 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
-    <option name="ECMAL4.ATTRIBUTE">
-      <value />
-    </option>
-    <option name="ECMAL4.BADCHARACTER">
-      <value />
-    </option>
-    <option name="ECMAL4.DOC_MARKUP">
-      <value />
-    </option>
-    <option name="ECMAL4.DOC_TAG">
-      <value />
-    </option>
     <option name="ECMAL4.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="f8f858" />
@@ -646,9 +628,6 @@
       <value>
         <option name="FOREGROUND" value="48ff60" />
       </value>
-    </option>
-    <option name="EL_BACKGROUND">
-      <value />
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
@@ -899,9 +878,6 @@
       <value>
         <option name="FOREGROUND" value="d1dae7" />
       </value>
-    </option>
-    <option name="INTERFACE_NAME_ATTRIBUTES">
-      <value />
     </option>
     <option name="Identifier">
       <value>
@@ -1198,9 +1174,6 @@
         <option name="FOREGROUND" value="fa0000" />
       </value>
     </option>
-    <option name="LOGCAT_INFO_OUTPUT">
-      <value />
-    </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="fbfbfb" />
@@ -1297,9 +1270,6 @@
         <option name="FOREGROUND" value="e5db74" />
       </value>
     </option>
-    <option name="METHOD_DECLARATION_ATTRIBUTES">
-      <value />
-    </option>
     <option name="Map key">
       <value>
         <option name="FOREGROUND" value="1ff00" />
@@ -1321,9 +1291,6 @@
       <value>
         <option name="FOREGROUND" value="48ff60" />
       </value>
-    </option>
-    <option name="OGNL.BACKGROUND">
-      <value />
     </option>
     <option name="OGNL.EXPRESSION">
       <value>
@@ -1622,9 +1589,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
-      <value />
-    </option>
     <option name="REASSIGNED_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ff9720" />
@@ -1897,12 +1861,6 @@
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fffdfe" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value>
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>

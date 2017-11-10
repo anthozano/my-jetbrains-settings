@@ -32,7 +32,6 @@
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
     <option name="FILESTATUS_MERGED" value="65738e" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
@@ -737,10 +736,6 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="Instance field">
-      <value />
-    </option>
-    <option name="Instance property reference ID" baseAttributes="INSTANCE_FIELD_ATTRIBUTES" />
     <option name="JAVA_COMMA">
       <value>
         <option name="FOREGROUND" value="a7dbd8" />
@@ -880,28 +875,10 @@
         <option name="FOREGROUND" value="a7dbd8" />
       </value>
     </option>
-    <option name="KOTLIN_ANNOTATION">
-      <value />
-    </option>
-    <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
-      <value />
-    </option>
     <option name="KOTLIN_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c792ea" />
       </value>
-    </option>
-    <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CAST_RECEIVER">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CAST_VALUE">
-      <value />
-    </option>
-    <option name="KOTLIN_SMART_CONSTANT">
-      <value />
     </option>
     <option name="LABEL">
       <value>

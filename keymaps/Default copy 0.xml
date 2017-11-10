@@ -1,10 +1,53 @@
 <keymap version="1" name="Default copy 0" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl colon" />
+    <keyboard-shortcut first-keystroke="shift ctrl colon" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="shift alt button1" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
+  <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="ParameterInfo" />
+  <action id="PreviousOccurence" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift alt 2" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -22,5 +65,10 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Uml.ShowDiff" />
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
   <action id="Vcs.Push" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.CyclicSplitLayoutChangeAction" />
 </keymap>
